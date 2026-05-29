@@ -1,0 +1,204 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Logs
+logs/
+*.log
+log/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+lib-cov
+coverage/
+.nyc_output/
+
+# Coverage directory used by tools like istanbul
+coverage/
+.nyc_output/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+*.history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+.env.local
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# next.js build output
+.next
+out
+
+# nuxt.js build output
+.nuxt
+dist
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing
+.vscode-test
+
+# Optional stylelint cache
+.stylelintcache
+
+# Mac Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux Files
+.directory
+*.part
+*.tmp
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# MongoDB data
+data/
+db/
+mongodb-data/
+*.db
+
+# Redis data
+dump.rdb
+
+# Uploads
+uploads/
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# SSL certificates
+*.pem
+*.crt
+*.key
+*.p12
+
+# Production build files
+dist/
+build/
+public/dist/
+
+# PM2 files
+.pm2/
+pm2-*.log
+
+# Debug logs
+debug.log
+
+# Security
+secrets.json
+secrets.js
+credentials.json
+.credentials/
+
+# Environment specific
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Database migration files
+migrations/*.sql
+migrations/*.db
+
+# Session files
+session-*.json
+
+# Service worker
+sw.*
+service-worker.js
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettiercache
+
+# Cache directories
+.cache/
+.parcel-cache/
+.eslintcache
+.prettiercache
